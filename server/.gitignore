@@ -1,0 +1,41 @@
+# Ignore node_modules (dependencies)
+node_modules/
+
+# Ignore environment-specific files
+.env
+.env.*
+
+# Ignore logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Ignore configuration files
+config.js
+config.json
+
+# Ignore database files
+*.db
+
+# Ignore built assets (if applicable)
+build/
+dist/
+
+# Ignore debugging and development files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+
+# Ignore package-lock files (if using npm)
+package-lock.json
+yarn.lock
+npm-shrinkwrap.json
+
+# Ignore editor and OS-specific files
+.DS_Store
+Thumbs.db
