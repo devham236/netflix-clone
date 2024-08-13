@@ -4,6 +4,11 @@ Welcome to my Netflix Frontend Clone! This Application allows users to browse th
 
 
 
+## Demo/Preview
+
+https://github.com/devham236/netflix-clone/assets/90037750/67b5ecaa-b661-4172-809b-5920897d744d
+
+
 ## Features
 * **User Authentication:** User can sign up and log in securely using their email and password.
 * **Movie Catalog:** Browse through a vast catalog of the latest movies.
@@ -78,11 +83,6 @@ npm start
 ```bash
 http://localhost:PortNumber
 ```
-
-
-## Demo/Preview
-
-https://github.com/devham236/netflix-clone/assets/90037750/67b5ecaa-b661-4172-809b-5920897d744d
 
 
 
